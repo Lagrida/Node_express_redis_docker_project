@@ -1,0 +1,10 @@
+version: "3"
+services:
+  app_project:
+    build:
+      context: .
+      args:
+        - NODE_ENV=developpement
+    command: npm run dev
+    environment:
+      - NODE_ENV=developpement
