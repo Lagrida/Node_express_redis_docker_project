@@ -1,4 +1,4 @@
-# Node_express_redis_docker_project
+# Node express redis docker project
 
 ## Docker Developpement :
 ```docker
